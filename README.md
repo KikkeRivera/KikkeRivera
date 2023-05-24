@@ -24,4 +24,4 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img alt="GitHub Streak" src=http://github-readme-streak-stats.herokuapp.com?user=KikkeRivera&theme=react&hide_border=true></a>
 </div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=KikkeRivera&theme=transparent&hide_border=true)](https://git.io/streak-stats)
