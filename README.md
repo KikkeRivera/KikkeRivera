@@ -19,18 +19,22 @@
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
   <img alt="PowelShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+  <img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+ </a>
  
- </div>
+</div>
  
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=KikkeRivera&layout=compact&langs_count=6&theme=react&hide_border=true></a>
-</div>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Kikke's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=KikkeRivera&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true></a>
-</div>
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img alt="GitHub Streak" src=http://github-readme-streak-stats.herokuapp.com?user=KikkeRivera&theme=react&hide_border=true></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=KikkeRivera&layout=compact&langs_count=6&theme=transparent&hide_border=true></a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KikkeRivera&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img alt="Kikke's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=KikkeRivera&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true></a>
+</div>
+
+<div align="center">
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+  <img alt="GitHub Streak" src=http://github-readme-streak-stats.herokuapp.com?user=KikkeRivera&theme=transparent&hide_border=true></a>
+</div>
